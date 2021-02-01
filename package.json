@@ -1,0 +1,25 @@
+{
+  "Author": "Enis",
+  "name": "discordclientlogin",
+  "version": "0.0.5",
+  "description": "Simple Discord Client Login",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.7"
+  },
+  "engines": {
+    "node": "11.x"
+  },
+  "repository": {
+    "url": "https://github.com/Enisizm/simpleclientlogin"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node"
+  ]
+}
